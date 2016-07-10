@@ -1,0 +1,5 @@
+author: "Gabriel Gatu"
+category: "admin"
+summary: "Logs hello world on presence event"
+home: "https://github.com/gabrielgatu/mod_presence_hello"
+url: "git@github.com:gabrielgatu/mod_presence_hello.git"
